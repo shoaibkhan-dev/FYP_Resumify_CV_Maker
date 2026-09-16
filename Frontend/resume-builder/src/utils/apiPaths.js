@@ -1,4 +1,4 @@
-export const BASE_URL = "https://fyp-resumify-cv-maker-i7kv.vercel.app";
+export const BASE_URL = "https://fyp-resumify-cv-maker-k586.vercel.app";
 
 // utils/apiPath.js
 export const API_PATHS = {
