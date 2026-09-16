@@ -1,4 +1,4 @@
-export const BASE_URL = "http://localhost:8000";
+export const BASE_URL = "https://fyp-resumify-cv-maker-i7kv.vercel.app";
 
 // utils/apiPath.js
 export const API_PATHS = {
